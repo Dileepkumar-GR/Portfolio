@@ -1,0 +1,104 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.section-one{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+}
+.section-one__title{
+    font-size: 70px;
+}
+.section-one__role{
+    font-size: 35px;
+}
+.section-one__contact{
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 20px;
+    color: rgb(232, 235, 239);
+    background-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+ 
+}
+.section-two{
+    color: white;
+    background-color:grey;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.section-two__title{
+    font-size: large;
+}
+.section-three{
+    margin-top: 10px;
+    color: white;
+    background-color: lightseagreen;
+    width: 9%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 200px;
+   padding: 20px;
+    
+    text-decoration: none;
+}
+.section-three__ul li,.section-four__ul li{
+  list-style: none;
+    padding: 5px;
+
+}
+.body{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+.section-four{
+    color: white;
+    background-color:yellowgreen;
+    width: 84%;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+border-radius: 10px;
+  font-size: 20px;
+  height: 200px;
+  padding: 20px;
+
+}
+
+.section-five{
+    color: white;
+    background-color: rgb(5, 2, 2);
+    margin-top: 7px;
+    border-radius: 10px;
+    padding: 15px;
+    text-decoration: none;
+    
+}
+.section-six__input{
+    text-decoration: none;
+}
+.section-input{
+    border: none;
+    border-bottom: 1px solid green;
+}
+.section-text{
+    border: none;
+    width: 200px;
+    height: 100px;
+    border: solid 1px rgb(224, 21, 21);
+}
+.sumbit{
+    color: white;
+    background-color: black;
+}
